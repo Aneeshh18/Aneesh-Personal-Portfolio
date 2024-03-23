@@ -343,7 +343,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Aneeshh18/Netflix-Gpt",
-    webapp: "https://netflix-gpt-18.netlify.app/",
+    webapp: "https://netflix-gpt-nine-teal.vercel.app/",
   },
   {
     id: 2,
