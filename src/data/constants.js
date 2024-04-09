@@ -5,7 +5,7 @@ export const Bio = {
     "I am a highly motivated and versatile individual, constantly seeking new challenges to broaden my horizons. Fueled by a genuine passion for learning, I am committed to consistently delivering high-quality results in every endeavor. My positive attitude, coupled with a growth mindset, empowers me to embrace opportunities for personal and professional development.",
   github: "https://github.com/Aneeshh18",
   resume:
-    "https://drive.google.com/file/d/1ACFkvxGqCB4vDyxM6fW3eHv4poUq1txw/view?usp=sharing",
+    "https://drive.google.com/file/d/1i5r8JzxYf4s37hZOSkc6JoSEEdSqvBv3/view",
   linkedin: "https://www.linkedin.com/in/aneeshsahu18/",
   twitter: "https://twitter.com/Aneeshhh18",
   leetcode: "https://leetcode.com/aneeshsahu18/",
