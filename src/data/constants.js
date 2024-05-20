@@ -288,7 +288,7 @@ export const experiences = [
     desc: "Impact: Helping businesses streamline their customer service operations using Servy-CRM. Built highly interactive technician dashboard components in Servy-CRM, reducing site search time by 10%.Developed reusable and maintainable React components for Servy-CRM, adhering to clean UI principles and promoting consistent user experience.Reduced bug occurrences by 15% through meticulous identification and resolution of front-end issues.",
     skills: ["ReactJS", "JavaScript", "Material UI", "Redux", "HTML", "CSS"],
     doc: [
-      "https://drive.google.com/file/d/1bicIPE1r58X__4xZnwdcgOYdZba6vL7y/view?usp=sharing",
+      "https://github.com/Aneeshh18/Aneesh-Personal-Portfolio/assets/88325646/c7dec257-fd73-4a0d-b0e0-c41789e077f8",
     ],
   },
   {
